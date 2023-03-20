@@ -13,7 +13,7 @@ body{
 /* Hero section */
 
 .hero__section{
-	background-image: url('heroSectionBackground.png');
+	background-image: url('./Images/heroSectionBackground.png');
 	height: 400px;
 	background-size: cover;
 	background-position: center;
@@ -267,19 +267,19 @@ body{
 } 
 
 .card1{
-	background-image: url('collection1.jpg');
+	background-image: url('./Images/collection1.jpg');
 }
 
 .card2{
-	background-image: url('collection2.jpg');
+	background-image: url('./Images/collection2.jpg');
 }
 
 .card3{
-	background-image: url('collection3.jpg');
+	background-image: url('./Images/collection3.jpg');
 }
 
 .card4{
-	background-image: url('collection4.jpg');
+	background-image: url('./Images/collection4.jpg');
 }
 
 .overlay{
@@ -628,3 +628,4 @@ body{
 		grid-template-columns: repeat(1, 1fr);
     }
 }
+	
